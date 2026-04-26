@@ -52,6 +52,8 @@ keybind = super+ctrl+arrow_down=goto_split:down
 keybind = super+ctrl+arrow_up=goto_split:up
 keybind = super+ctrl+arrow_left=goto_split:left
 keybind = super+ctrl+arrow_right=goto_split:right
-keybind = shift+ctrl+o=new_split:right
-keybind = shift+ctrl+e=new_split:down
+keybind = shift+ctrl+arrow_right=new_split:right
+keybind = shift+ctrl+arrow_down=new_split:down
+keybind = shift+ctrl+arrow_left=new_split:left
+keybind = shift+ctrl+arrow_up=new_split:up
 keybind = alt+enter=toggle_fullscreen
